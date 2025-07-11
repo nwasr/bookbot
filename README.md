@@ -2,6 +2,9 @@
 
 Bookbot is a Python program that analyzes `.txt` files of novels — specifically those downloaded from **[Project Gutenberg](https://www.gutenberg.org/)** — and generates a statistical report on word and character usage.
 
+![work](https://github.com/user-attachments/assets/1053dfa3-81b6-45f8-b9e9-8e321124a7da)
+
+
 ## Features
 
 * Analyzes word count and character frequency in any `.txt` book
